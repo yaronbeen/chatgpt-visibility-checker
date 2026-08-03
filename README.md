@@ -160,4 +160,14 @@ Want the side-by-side view across **both** ChatGPT and Perplexity at once? Use
 
 ---
 
+## Need a custom scraper?
+
+If you want to customize the ChatGPT prompts or extract additional response fields, you can build your own scraper with [Bright Data's Scraper Studio](https://brightdata.com/products/scraper-studio). Describe the ChatGPT data you need in plain English, and Scraper Studio generates a production-ready scraper with your exact output schema. It includes self-healing, so when the target platform changes how it returns results, you describe the fix and push a patch in minutes instead of rewriting your parser.
+
+## Free tier
+
+Every Bright Data account comes with 5,000 free credits per month (roughly $7.50 in value). Credits reset on the first of each month, and you can start without a credit card. That is enough to run many ChatGPT brand visibility checks and decide whether this monitoring workflow fits your needs.
+
+---
+
 Built with love by **[Yaron · nofluff.online](https://nofluff.online)** · powered by **Bright Data**. MIT licensed.
